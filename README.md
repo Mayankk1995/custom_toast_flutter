@@ -1,6 +1,8 @@
 # custom_toast_flutter
 
-A new Flutter application.
+A flutter application to show implementation of custom toast messages. 
+
+Reference to the article - https://medium.com/@Mak95/how-to-make-custom-toast-messages-in-flutter-9799ef3239b7
 
 ## Getting Started
 
